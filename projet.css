@@ -1,0 +1,40 @@
+h1
+{
+	text-align: center;
+	background-color: purple;
+  color: white;
+  font-family: algerian;
+}
+h2
+{
+	font-family: lucida bright;
+	font-style: italic;
+	color: blue;
+}
+p
+{
+	font-family: Papyrus;
+	color: black;
+}
+h3
+{
+	text-align: center;
+	background-color: green;
+  font-family: algerian;
+  color: yellow;
+}
+p1
+{
+	font-family: chapparal pro ;
+	color: purple;
+}
+h4
+{
+	text-align: center;
+	background-color: red;
+}
+h5
+{
+  text-align: center;
+  background-color: red;
+}
